@@ -1,0 +1,263 @@
+[
+  {
+    "tvg_id": "CaracolTV.co",
+    "name": "Caracol TV HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Caracol_Televisi%C3%B3n_logo_2019.svg/512px-Caracol_Televisi%C3%B3n_logo_2019.svg.png",
+    "category": "Colombia TDT",
+    "thematic_category": "Entretenimiento",
+    "country_code": "CO",
+    "quality": "1080p",
+    "priority": 1,
+    "use_proxy": false,
+    "stream_url": "https://barinaslive1.boldmss.com/CARACOL/CARACOL.isml/CARACOL.m3u8",
+    "backup_streams": [
+      "http://200.122.223.13:55000/play/caracol-tv-hd-tdt/index.m3u8",
+      "https://streaming.onnethn.com/CARACOL_INTERNACIONAL/playlist.m3u8",
+      "http://200.122.223.13:55000/play/canal-caracol-banda-ku/index.m3u8"
+    ],
+    "headers": {
+      "Referer": "https://www.caracoltv.com/",
+      "Origin": "https://www.caracoltv.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "embed_url": "https://www.caracoltv.com/senal-vivo"
+  },
+  {
+    "tvg_id": "CanalRCN.co",
+    "name": "Canal RCN HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_RCN_logo_2020.svg/512px-Canal_RCN_logo_2020.svg.png",
+    "category": "Colombia TDT",
+    "thematic_category": "Entretenimiento",
+    "country_code": "CO",
+    "quality": "1080p",
+    "priority": 2,
+    "use_proxy": false,
+    "stream_url": "https://barinaslive1.boldmss.com/RCN/RCN.isml/RCN.m3u8",
+    "backup_streams": [
+      "http://200.122.223.13:55000/play/rcn-hd-tdt/index.m3u8",
+      "https://rcntv-rcnmas-1-us.roku.wurl.tv/3000.m3u8"
+    ],
+    "headers": {
+      "Referer": "https://www.canalrcn.com/",
+      "Origin": "https://www.canalrcn.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "embed_url": "https://www.canalrcn.com/senal-en-vivo/"
+  },
+  {
+    "tvg_id": "Canal1.co",
+    "name": "Canal 1 HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_1_Colombia_logo_2017.svg/512px-Canal_1_Colombia_logo_2017.svg.png",
+    "category": "Colombia TDT",
+    "thematic_category": "Entretenimiento",
+    "country_code": "CO",
+    "quality": "1080p",
+    "priority": 3,
+    "use_proxy": true,
+    "stream_url": "http://200.122.223.13:55000/play/canal-1-tdt/index.m3u8",
+    "backup_streams": [
+      "http://190.61.47.54:8000/play/a00u/index.m3u8"
+    ],
+    "headers": {
+      "Referer": "https://canal1.com.co/",
+      "Origin": "https://canal1.com.co",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "embed_url": "https://canal1.com.co/en-vivo/"
+  },
+  {
+    "tvg_id": "SenalColombia.co",
+    "name": "Señal Colombia HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Se%C3%B1al_Colombia_Logo_2022.svg/512px-Se%C3%B1al_Colombia_Logo_2022.svg.png",
+    "category": "Colombia TDT",
+    "thematic_category": "Cultura",
+    "country_code": "CO",
+    "quality": "1080p",
+    "priority": 4,
+    "use_proxy": false,
+    "stream_url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
+    "backup_streams": [
+      "http://200.122.223.13:55000/play/senal-colombia-tdt/index.m3u8"
+    ],
+    "headers": {
+      "Referer": "https://www.rtvcplay.co/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "embed_url": "https://www.senalcolombia.tv/senal-en-vivo"
+  },
+  {
+    "tvg_id": "Citytv.co",
+    "name": "Citytv Bogotá HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Citytv_Bogot%C3%A1_logo_2019.svg/512px-Citytv_Bogot%C3%A1_logo_2019.svg.png",
+    "category": "Colombia TDT",
+    "thematic_category": "Noticias",
+    "country_code": "CO",
+    "quality": "1080p",
+    "priority": 5,
+    "use_proxy": true,
+    "stream_url": "http://200.122.223.13:55000/play/city-tv-banda-ku/index.m3u8",
+    "backup_streams": [
+      "http://190.61.47.54:8000/play/a03l/index.m3u8"
+    ],
+    "headers": {
+      "Referer": "https://citytv.eltiempo.com/",
+      "Origin": "https://citytv.eltiempo.com",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "embed_url": "https://citytv.eltiempo.com/en-vivo/"
+  },
+  {
+    "tvg_id": "Telecaribe.co",
+    "name": "Telecaribe HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Telecaribe_logo_2020.png/512px-Telecaribe_logo_2020.png",
+    "category": "Colombia TDT",
+    "thematic_category": "Entretenimiento",
+    "country_code": "CO",
+    "quality": "1080p",
+    "priority": 6,
+    "use_proxy": true,
+    "stream_url": "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8",
+    "backup_streams": [
+      "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8"
+    ],
+    "headers": {
+      "Referer": "https://www.telecaribe.co/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
+    },
+    "embed_url": "https://www.telecaribe.co/en-vivo/"
+  },
+  {
+    "tvg_id": "Teleantioquia.co",
+    "name": "Teleantioquia HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Teleantioquia_2020.svg/512px-Teleantioquia_2020.svg.png",
+    "category": "Colombia TDT",
+    "thematic_category": "Entretenimiento",
+    "country_code": "CO",
+    "quality": "1080p",
+    "priority": 7,
+    "use_proxy": true,
+    "stream_url": "https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8",
+    "backup_streams": [
+      "http://190.61.47.54:8000/play/a00z/index.m3u8"
+    ],
+    "headers": {
+      "Referer": "https://www.teleantioquia.co/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
+    },
+    "embed_url": "https://www.teleantioquia.co/en-vivo/"
+  },
+  {
+    "tvg_id": "CanalCapital.co",
+    "name": "Canal Capital HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_Canal_Capital_2020.svg/512px-Logo_Canal_Capital_2020.svg.png",
+    "category": "Colombia TDT",
+    "thematic_category": "Cultura",
+    "country_code": "CO",
+    "quality": "1080p",
+    "priority": 8,
+    "use_proxy": true,
+    "stream_url": "http://200.122.223.13:55000/play/canal-capital-banda-ku/index.m3u8",
+    "backup_streams": [],
+    "headers": {
+      "Referer": "https://www.conexioncapital.co/",
+      "Origin": "https://www.conexioncapital.co",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "embed_url": "https://www.conexioncapital.co/senal-en-vivo/"
+  },
+  {
+    "tvg_id": "NTN24.co",
+    "name": "NTN24 Colombia HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NTN24_logo.svg/512px-NTN24_logo.svg.png",
+    "category": "Colombia TDT",
+    "thematic_category": "Noticias",
+    "country_code": "CO",
+    "quality": "1080p",
+    "priority": 9,
+    "use_proxy": false,
+    "stream_url": "https://stream1.bitred.cl/ntn24/index.m3u8",
+    "backup_streams": [],
+    "headers": {
+      "Referer": "https://www.ntn24.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "embed_url": "https://www.ntn24.com/en-vivo"
+  },
+  {
+    "tvg_id": "RCNMas.co",
+    "name": "RCN Más HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_RCN_logo_2020.svg/512px-Canal_RCN_logo_2020.svg.png",
+    "category": "Colombia TDT",
+    "thematic_category": "Entretenimiento",
+    "country_code": "CO",
+    "quality": "1080p",
+    "priority": 10,
+    "use_proxy": false,
+    "stream_url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/3000.m3u8",
+    "backup_streams": [],
+    "headers": {
+      "Referer": "https://www.canalrcn.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "embed_url": "https://www.canalrcn.com/senal-en-vivo/"
+  },
+  {
+    "tvg_id": "RCNNovelas.co",
+    "name": "RCN Novelas HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_RCN_logo_2020.svg/512px-Canal_RCN_logo_2020.svg.png",
+    "category": "Colombia TDT",
+    "thematic_category": "Series",
+    "country_code": "CO",
+    "quality": "1080p",
+    "priority": 11,
+    "use_proxy": false,
+    "stream_url": "https://stream1.bitred.cl/rcn-novelas/index.m3u8",
+    "backup_streams": [
+      "https://streaming.onnethn.com/RCN_NOVELAS/playlist.m3u8"
+    ],
+    "headers": {
+      "Referer": "https://www.canalrcn.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "embed_url": "https://www.canalrcn.com/senal-en-vivo/"
+  },
+  {
+    "tvg_id": "CaracolInternacional.co",
+    "name": "Caracol Internacional HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Caracol_Televisi%C3%B3n_logo_2019.svg/512px-Caracol_Televisi%C3%B3n_logo_2019.svg.png",
+    "category": "Colombia TDT",
+    "thematic_category": "Entretenimiento",
+    "country_code": "CO",
+    "quality": "1080p",
+    "priority": 12,
+    "use_proxy": true,
+    "stream_url": "https://streaming.onnethn.com/CARACOL_INTERNACIONAL/playlist.m3u8",
+    "backup_streams": [],
+    "headers": {
+      "Referer": "https://www.caracoltv.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"
+    },
+    "embed_url": "https://www.caracoltv.com/senal-vivo"
+  },
+  {
+    "tvg_id": "WinSports.co",
+    "name": "Win Sports HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Win_Sports_logo.svg/512px-Win_Sports_logo.svg.png",
+    "category": "Colombia TDT",
+    "thematic_category": "Deportes",
+    "country_code": "CO",
+    "quality": "1080p",
+    "priority": 13,
+    "use_proxy": true,
+    "stream_url": "http://190.217.66.92:8000/play/a0fh/index.m3u8",
+    "backup_streams": [
+      "http://138.121.15.230:9002/WIN-SPORT/index.m3u8"
+    ],
+    "headers": {
+      "Referer": "https://www.winsports.co/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    "embed_url": "https://www.winsports.co/"
+  }
+]
+

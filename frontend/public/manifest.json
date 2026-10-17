@@ -1,0 +1,19 @@
+{
+  "name": "Exe.tv — Televisión en Vivo",
+  "short_name": "Exe.tv",
+  "description": "Televisión en vivo libre, rápida y sin registro. Canales de Colombia y el mundo en directo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090A0F",
+  "theme_color": "#090A0F",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
